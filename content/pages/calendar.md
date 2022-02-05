@@ -4,20 +4,219 @@ title: Calendar
 uid: 159e4bb1-6ab6-f961-55c5-d41bd49bc9c8
 ---
 
-| week # | Topics | key dates |
-| --- | --- | --- |
-| 1 | Tensions between Capitalism and Democracy | &nbsp; |
-| 2 | Tensions between Capitalism and Environmental Sustainability | &nbsp; |
-| 3 | Combining Political and Economic Development | &nbsp; |
-| 4 | Cooperative Models | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Community-Owned Real Estate (Trusts and Housing Coops) {{< br >}}{{< br >}} Presentation by Will Bradshaw on Market Creek {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Banking and Financing {{< br >}}{{< br >}} Presentations by Lynn Benander {{< br >}}{{< br >}}  | Cooperative Development Institute workshop sessions 1 and 2 |
-| 7 | Union Pension Investing | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Privatization and Gainsharing {{< br >}}{{< br >}} Presentations by Lynn Benander {{< br >}}{{< br >}}  | Cooperative Development Institute workshop sessions 3 and 4 |
-| 9 | Organizing Remittances | &nbsp; |
-| 10 | Work Session | &nbsp; |
-| 11 | Work Session (cont.) | &nbsp; |
-| 12 | Work Session (cont.) | &nbsp; |
-| 13 | Work Session (cont.) | &nbsp; |
-| 14 | Work Session (cont.) | &nbsp; |
-| 15 | Project Discussion | Final project due in class
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+week #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Tensions between Capitalism and Democracy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Tensions between Capitalism and Environmental Sustainability
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Combining Political and Economic Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Cooperative Models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Community-Owned Real Estate (Trusts and Housing Coops)
+
+Presentation by Will Bradshaw on Market Creek
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Banking and Financing
+
+Presentations by Lynn Benander
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Cooperative Development Institute workshop sessions 1 and 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Union Pension Investing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Privatization and Gainsharing
+
+Presentations by Lynn Benander
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Cooperative Development Institute workshop sessions 3 and 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Organizing Remittances
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Work Session
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Work Session (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Work Session (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Work Session (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Work Session (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Project Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Final project due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
