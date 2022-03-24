@@ -82,7 +82,7 @@ Cooperative Models
 {{< tdopen >}}
 Fairbairn, Brett, June Bold, Murray Fulton, Lous Hammond Ketilson, and Daniel Ish. _Co-operatives and Community Development_. Saskatoon, Saskatchewan: Centre for the Study of Cooperatives, University of Saskatchewan, 1991. ISBN: 0888802498.  
   
-Prahalad, C. K., and Allen Hammond. "What Works: Serving the Poor, Profitably." Markle Foundation, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pdf.wri.org/whatworks_serving_profitably.pdf))  
+Prahalad, C. K., and Allen Hammond. "What Works: Serving the Poor, Profitably." Markle Foundation, 2002. ([PDF](http://pdf.wri.org/whatworks_serving_profitably.pdf))  
   
 Denison, Alice, and Alan Wilson. _CLF Ventures: A History_. Boston, MA: [CLF](http://www.clfventures.org/), 2002.  
   
